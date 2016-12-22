@@ -4,7 +4,7 @@ Run [create-react-app](https://github.com/facebookincubator/create-react-app) ap
 
 ### Goal
 
-Cozy and cross os *create-react-app* application runner with environment variables.
+Cozy and cross OS *create-react-app* application runner with environment variables.
 
 Default environment files:
 
