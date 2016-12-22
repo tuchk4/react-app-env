@@ -13,7 +13,7 @@ Default environment files:
 
 ---
 
-Environment file example
+Environment file example *./development.env*
 
 ```
 GOOGLE_CLIENT_ID = XXX_YYY_ZZZ
