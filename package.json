@@ -4,7 +4,7 @@
   "description": "Run create-react-app application with env variables",
   "main": "lib/index.js",
   "scripts": {
-    "test": "babel -d ./ ./lib",
+    "test": "jest --coverage",
     "test-dev": "jest --coverage --watch"
   },
   "bin": {
