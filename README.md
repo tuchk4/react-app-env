@@ -36,7 +36,7 @@ With this environment file defined above:
 react-app-env start
 ```
 
-is equals to
+equals to
 
 ```
 cross-env REACT_APP_GOOGLE_CLIENT_ID=XXX_YYY_ZZZ REAC_APP_API_PROTOCOL=http: REACT_APP_API_HOST=localhost:9876 REACT_APP_API_PREFIX=api REACT_APP_API_SECURITY_TOKEN=acess_token NODE_PATH=src/scripts PORT=9001 react-scripts start
