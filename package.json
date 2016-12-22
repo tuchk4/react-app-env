@@ -10,6 +10,10 @@
   "bin": {
     "react-app-env": "./bin/react-app-env"
   },
+  "repository:": {
+    "type": "git",
+    "url": "https://github.com/tuchk4/react-app-env.git"
+  },
   "keywords": [],
   "author": "Valerii Sorokobatko <valeriy.sorokobatko@gmail.com> (github.com/tuchk4)",
   "license": "ISC",
