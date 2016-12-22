@@ -1,0 +1,26 @@
+{
+  "name": "react-app-env",
+  "version": "1.0.0",
+  "description": "Run create-react-app application with env variables",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "babel -d ./ ./lib",
+    "test-dev": "jest --coverage --watch"
+  },
+  "bin": {
+    "react-app-env": "./bin/react-app-env"
+  },
+  "keywords": [],
+  "author": "Valerii Sorokobatko <valeriy.sorokobatko@gmail.com> (github.com/tuchk4)",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "jest": "^18.0.0"
+  },
+  "dependencies": {
+    "cross-env": "^3.1.3",
+    "yargs": "^6.5.0"
+  }
+}
