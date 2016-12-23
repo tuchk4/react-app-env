@@ -1,8 +1,15 @@
-# React app env
-
 Run [create-react-app](https://github.com/facebookincubator/create-react-app) application with env variables.
 
-### Goal
+
+## Better Use [dotenv](https://www.npmjs.com/package/dotenv)
+
+```
+"scripts": {
+  "run":  "node -r dotenv/config ./node_modules/.bin/react-scripts start dotenv_config_path=dev.env"
+}
+```
+
+## [React app env](https://github.com/tuchk4/react-app-env)
 
 Cozy and cross OS *create-react-app* application runner with environment variables.
 
