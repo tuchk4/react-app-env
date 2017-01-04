@@ -1,5 +1,10 @@
 Run [create-react-app](https://github.com/facebookincubator/create-react-app) application with env variables.
 
+## Create react app PR
+
+There is Issue and PR to create-react-app repository to support different env configs.
+https://github.com/facebookincubator/create-react-app/issues/1343
+
 
 ## Better Use [dotenv](https://www.npmjs.com/package/dotenv)
 
