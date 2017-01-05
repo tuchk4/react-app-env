@@ -8,6 +8,8 @@ https://github.com/facebookincubator/create-react-app/issues/1343
 
 ## Better Use [dotenv](https://www.npmjs.com/package/dotenv)
 
+By default it will readt variables from `.env` config. If you need to read custom config:
+
 ```
 "scripts": {
   "run":  "node -r dotenv/config ./node_modules/.bin/react-scripts start dotenv_config_path=dev.env"
