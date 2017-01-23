@@ -13,8 +13,8 @@ But if you need to read from custom config - update npm scripts:
 
 ```
 "scripts": {
-  "start": "node -r dotenv/config ./node_modules/.bin/node scripts/start.js dotenv_config_path=development.env",
-  "build": "node -r dotenv/config ./node_modules/.bin/node scripts/build.js dotenv_config_path=production.env"
+  "start": "node -r dotenv/config ./node_modules/.bin/react-scripts start dotenv_config_path=development.env",
+  "build": "node -r dotenv/config ./node_modules/.bin/react-scripts build dotenv_config_path=production.env"
 }
 ```
 
