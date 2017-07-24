@@ -2,6 +2,8 @@ Run [create-react-app](https://github.com/facebookincubator/create-react-app) ap
 
 ## Create react app PR
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tuchk4/react-app-env.svg)](https://greenkeeper.io/)
+
 There is Issue and PR to create-react-app repository to support different env configs.
 https://github.com/facebookincubator/create-react-app/issues/1343
 
