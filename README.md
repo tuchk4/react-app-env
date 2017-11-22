@@ -2,7 +2,7 @@
 
 CRA supports multiple `.env`  configs out of the box [Feature/different env config files #1343](https://github.com/facebookincubator/create-react-app/pull/1344)
 
-Docs - https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-development-environment-variables-in-env
+Docs - [Adding Development Environment Variables](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-development-environment-variables-in-env)
 
 
 ----
