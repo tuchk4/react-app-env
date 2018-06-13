@@ -3,6 +3,10 @@
   "version": "1.2.1",
   "description": "Run create-react-app application with env variables",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuchk4/react-app-env"
+  },
   "scripts": {
     "test": "jest --coverage",
     "test-dev": "jest --coverage --watch"
