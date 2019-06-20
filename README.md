@@ -54,8 +54,9 @@ PORT = 9001
 ```
 *react-app-env* will automatically add `REACT_APP` prefix to each env variable except:
 
-* PORT - dev server port
-* NODE_PATH - directory name to be resolved to the current directory as well as its ancestors, and searched for modules. It is [resolve.modulesDirectories](https://webpack.github.io/docs/configuration.html#resolve-modulesdirectories) for webpack. More details at node official doc ["Loading from the global folders"](https://nodejs.org/api/modules.html#modules_loading_from_the_global_folders)
+`BROWSER`, `HOST`, `PORT`, `HTTPS`, `PUBLIC_URL`, `CI`, `REACT_EDITOR`, `CHOKIDAR_USEPOLLING`, `GENERATE_SOURCEMAP`, `NODE_PATH`, `INLINE_RUNTIME_CHUNK`
+
+For explaination see here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 With this environment file defined above:
 
