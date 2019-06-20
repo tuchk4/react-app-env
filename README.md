@@ -55,6 +55,7 @@ PORT = 9001
 *react-app-env* will automatically add `REACT_APP` prefix to each env variable except:
 
 `BROWSER`, `HOST`, `PORT`, `HTTPS`, `PUBLIC_URL`, `CI`, `REACT_EDITOR`, `CHOKIDAR_USEPOLLING`, `GENERATE_SOURCEMAP`, `NODE_PATH`, `INLINE_RUNTIME_CHUNK`
+
 For explaination see here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 With this environment file defined above:
