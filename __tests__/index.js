@@ -16,7 +16,8 @@ describe('parse env variables', () => {
       "REACT_APP_API_SECURITY_TOKEN": "access_token",
 
       "NODE_PATH": "/src",
-      "PORT": "9001"
+      "PORT": "9001",
+      "PUBLIC_URL": "/dummy"
     });
   });
 });
